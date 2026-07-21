@@ -9,8 +9,8 @@
   "background_color": "#eaf0ff",
   "theme_color": "#1e40af",
   "icons": [
-    { "src": "jangari_192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "jangari_512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "jangari_maskable_512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    { "src": "lieni_192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "lieni_512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "lieni_maskable_512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }
