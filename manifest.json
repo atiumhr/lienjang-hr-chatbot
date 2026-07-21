@@ -1,7 +1,7 @@
 {
-  "name": "★HR팀 장하리 사원",
-  "short_name": "★HR팀 장하리 사원",
-  "description": "ATIUM HR팀 AI사원 장하리 — 사내 문의 응대 · 고충처리 · 전자명함 신청",
+  "name": "강남점 Staff 장하리",
+  "short_name": "강남점 Staff 장하리",
+  "description": "리엔장의 New Staff 장하리 — 사내 문의 응대 · 고충처리 · 그 외 신청",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
